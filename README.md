@@ -16,7 +16,7 @@ traversal
 values check for duplicated values. In case of any duplication asks user to enter values
 again.
 
-## To run this programs.jar file:
+## To run this program's .jar file:
  * Open a command prompt 				[Win + R, type cmd.exe, press enter]
  * Navigate to the location of the proj1.jar file 	[chdir C://Location/Pf/Program/]
  * Type "java -jar proj1.jar
